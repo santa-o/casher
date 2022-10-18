@@ -5,9 +5,9 @@ column 1:  unique ID (VOID rows are deleted)
 
 column 2:  payment method(Cash, iD, FeliCa, PayPay, Credit)
 
-cokumn 3:  scan time(sec)
+column 3:  scan time(sec)
 
-cokumn 4:  payment time(sec)
+column 4:  payment time(sec)
 
 
 This dataset is gathered by (Sekita, 2020).
