@@ -16,8 +16,8 @@ From Sekita-san, I've got permission to release this data under Attribution 4.0 
 
 You must refer the origin of this data as
 
-関田 将任, 大学生協におけるキャッシュレス決済の有効性, 神奈川大学経済学部卒業論文、2020.
+関田 将任, 大学生協レジ処理時間調査結果、mimeo, 2019.
 
 or 
 
-Sekita, Masatou, The effectiveness of cashless-payment at the Univ-coop, Kanagawa University, Faculty of Economics, graduation thesis(in Japanese), 2020.
+Sekita, Masatou, Register processing time survey at the Univ-coop, mimeo, 2019.
